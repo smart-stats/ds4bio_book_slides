@@ -34,3 +34,4 @@
 + [Lecture 33, working with images](https://docs.google.com/presentation/d/1-p8l4IUeKxCoCmAjd0Sdp8rJN20ZEkF2GF4zTq0y2Zw/edit?usp=sharing)
 + [Lecture 34, working with text](https://docs.google.com/presentation/d/1PGb7SCd5s2GAPY17r0nRrd6w7u3j4bHxYlwuVMYXhjg/edit?usp=sharing)
 
+
