@@ -1,4 +1,6 @@
 # ds4bio_book
+This is a fork so that the slides display right with gh-pages.
+
 Files for the Data Science in Python for Biomedical Applications book.
 
 The book files are in
@@ -10,7 +12,7 @@ The live version of the book is
 To set up the space to run this you need the requirements in
 [requirements.txt](https://github.com/smart-stats/ds4bio_book/blob/main/book/requirements.txt).
 
-The slides for DS4PH are in [this directory](https://github.com/smart-stats/ds4bio_book/tree/main/slides/ds4ph)
+The slides for DS4PH are in [this directory](https://github.com/smart-stats/ds4bio_book_slides/tree/main/slides/ds4ph)
 
 
 
